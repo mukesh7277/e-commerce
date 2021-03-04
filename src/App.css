@@ -1,0 +1,17 @@
+.button{
+   height: 50px;
+   width: 1100px;
+   display: flex;
+   box-shadow: 0 0 10px gray;
+   font-family: sans-serif;
+   font-size: 17px;
+}
+.prod{
+   display: flex;
+}
+.prod2{
+   margin-left: 100px;
+}
+.prod3{
+   color: maroon;
+}

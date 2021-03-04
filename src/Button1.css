@@ -1,0 +1,21 @@
+.productimg{
+ display: flex;
+}
+.productimg3{
+    margin-left: 100px;
+}
+.text{
+    text-align: center;
+    color: maroon;
+    margin-left: 20px;
+}
+.text2{
+    color:maroon;
+}
+/* .productimg > button{ 
+    background: rgb(206, 209, 9);
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: rgb(165, 128, 5);
+    color: black
+}*/
